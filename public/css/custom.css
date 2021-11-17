@@ -1,0 +1,38 @@
+.dashboard-logo{
+    height: 70%;
+    width: 70%;
+}
+
+.header-link{
+    text-decoration: none;
+}
+
+.header-text{
+    color: #5D3FD3;
+}
+
+.nav-employee{
+    float: right;
+    background-color: transparent;
+}
+
+.employee-img{
+    width: 50%;
+    height: auto;
+}
+
+.card-link{
+    text-decoration: none;
+    color: black;
+}
+
+.notif:hover{
+    background-color: white;
+    border-radius: 15px;
+}
+
+.notif-list-bg{
+    background-color: rgb(238, 238, 238);
+    border-radius: 15px;
+}
+
